@@ -10,6 +10,5 @@
 
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ovandenbosch&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" /> </p>
 
 - 🐐 I'm currently learning [Next.js](https://nextjs.org/) and [Rust](https://www.rust-lang.org/)
