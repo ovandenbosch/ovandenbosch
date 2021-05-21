@@ -11,4 +11,4 @@
 <br />
 
 
-- 🐐 I'm currently learning [Next.js](https://nextjs.org/) and [Rust](https://www.rust-lang.org/)
+- 🐐 I'm currently learning [Next.js](https://nextjs.org/), a production React framework.
