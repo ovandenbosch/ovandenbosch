@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,  I'm Oliver van den Bosch</h1>
-<!-- <h3 align="center">A 14 year old developer from London</h3>       -->
+
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ovandenbosch&theme=onedark&margin-w=15&margin-h=15&column=7" alt="ovandenbosch"/> </p>
 
