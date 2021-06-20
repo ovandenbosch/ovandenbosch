@@ -11,4 +11,4 @@
 <br />
 
 
-- 🐐 I'm currently learning [Next.js](https://nextjs.org/), a production React framework.
+- 🔭 I'm currently learning [Swift](https://swift.org), to develop iOS apps.
